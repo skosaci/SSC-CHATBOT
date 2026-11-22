@@ -1,7 +1,7 @@
 {
-  "name": "ssc-chatbot-vercel",
+  "name": "ssc-chatbot-gemini",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "engines": { "node": "20.x" }
+  "engines": { "node": "24.x" }
 }
