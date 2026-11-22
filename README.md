@@ -22,4 +22,3 @@ GitHub'da `knowledge/ssc.json` dosyasını düzenle, Commit changes de. Vercel ~
 - Ücretsiz katmanda dakikalık/günlük istek sınırı düşüktür. Çok öğrenci aynı anda yazarsa "Too many messages" görebilir.
 - Ücretsiz katmanda gönderilen içeriklerin Google tarafından ürün geliştirmede kullanılabileceği belirtilmiş olabilir. Google'ın güncel şartlarını oku ve öğrencilere kişisel bilgi yazmamalarını söyle.
 - Anahtarı asla bir dosyaya yazma, sadece Vercel'e koy.
-
