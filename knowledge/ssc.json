@@ -1,0 +1,59 @@
+{
+  "_note_for_staff": "Edit this file to update the chatbot. Move items from 'not_yet_verified' into 'verified' once SSC confirms them. No code changes or restart needed.",
+  "verified": {
+    "about": "The Student Success Center (SSC) is located on the first floor of E Block. It offers a supportive space for academic services, mentoring and support sessions, study resources and the latest learning technologies. SSC supports students of the English Prep Program of the School of Foreign Languages (SFL) as part of the Student Growth and Success Policy.",
+    "opening_hours": "Monday-Friday 9:15-16:45. Saturday-Sunday closed.",
+    "location": "E Block, first floor, İzmir University of Economics, Sakarya Caddesi No:156, 35330 Balçova, İzmir.",
+    "mission": "SSC supports student learning and retention through programs, resources and services. From enrollment to graduation it helps students set academic goals, develop skills and make informed decisions, in an inclusive environment with personalized support.",
+    "vision": "Empower students to achieve academic and personal goals through enhanced learning opportunities, a sense of personal responsibility and leadership development.",
+    "sections": [
+      {
+        "name": "Weekly Calendar",
+        "url": "https://sfl.izmirekonomi.edu.tr/ssc/en/haftalik-etkinlik-takvimi",
+        "note": "The weekly schedule is published on this page (as a PDF). The chatbot cannot read it: always send students to this page for current days, times and sessions, and never state specific times."
+      },
+      {
+        "name": "Speaking Clubs",
+        "url": "https://sfl.izmirekonomi.edu.tr/ssc/en/ingilizce",
+        "note": "Clubs exist in English, German, Chinese, Spanish and Italian. Weekly group discussions led by facilitators in a relaxed environment. The English club page is linked here."
+      },
+      {
+        "name": "Academic Support",
+        "url": "https://sfl.izmirekonomi.edu.tr/ssc/en/akademik-destek-programi",
+        "note": "The Academic Support Centre helps students who find their studies challenging and want to get back on track, with extra support from a tutor. Every module there are workshops for reading, writing, listening, speaking and other key skills. Students can also get one-on-one tutoring or study independently in the center, where materials and advice are provided. To register, students click the group they want to join on the Academic Support page (registration is done through the sign-up flyer/form on that page, which may change each module). Group names, days and times are on the page, not known to the chatbot."
+      },
+      {
+        "name": "Workshops",
+        "url": "https://sfl.izmirekonomi.edu.tr/ssc/en/atolyeler",
+        "note": "Workshops are organized every module, tailored to different levels and student needs. They are led by experienced lecturers and cover skills from speaking and writing to grammar and vocabulary. They give extra support outside class and a chance to ask questions. To sign up, students click the workshop flyer on the Workshops page. Current workshop titles, dates and times are on that page and the Weekly Calendar, not known to the chatbot."
+      },
+      {
+        "name": "Mentoring",
+        "url": "https://sfl.izmirekonomi.edu.tr/ssc/en"
+      },
+      {
+        "name": "Micro-Credentials",
+        "url": "https://sfl.izmirekonomi.edu.tr/ssc/en"
+      },
+      {
+        "name": "Student Engagement Activities",
+        "url": "https://sfl.izmirekonomi.edu.tr/ssc/en/ogrenci-etkinlikleri",
+        "note": "Activities help students engage with peers and improve language skills in a fun, interactive way."
+      }
+    ],
+    "related_iue_services": [
+      "Health and Counseling Services: https://www.ieu.edu.tr/en/saglik-ve-psikolojik-danisma",
+      "Library: https://kutuphane.ieu.edu.tr/en",
+      "Student Clubs: https://club.ieu.edu.tr/"
+    ]
+  },
+  "not_yet_verified": [
+    "Mentoring: aims, application, eligibility",
+    "Micro-Credentials: what they are, requirements",
+    "Specific extracurricular events (e.g. movie nights, game days, karaoke)",
+    "SSC contact email / phone number",
+    "A Google Form linked from the Weekly Calendar page (https://forms.gle/9fYqdQfRUr1ruvSd7): purpose unconfirmed, possibly registration. Do not describe it to students until SSC confirms.",
+    "Academic support: group names, who is eligible, whether there is a limit on sessions",
+    "Workshop titles and levels for the current module"
+  ]
+}
